@@ -1,0 +1,23 @@
+{
+  "name": "@cryptolover705/node-blackcoin",
+  "version": "0.1.2",
+  "description": "blackcoin RPC Node Client",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "main": "./blackcoin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CryptoLover705/node-blackcoin.git"
+  },
+  "keywords": [
+    "blackcoin"
+  ],
+  "author": "CryptoLover705",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CryptoLover705/node-blackcoin/issues"
+  },
+  "homepage": "https://github.com/CryptoLover705/node-blackcoin"
+}
